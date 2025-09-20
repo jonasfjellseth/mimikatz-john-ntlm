@@ -36,4 +36,3 @@ ntlm-cracking-lab/
 │── README.md
 │── LICENSE
 │── LAB.md
-│── .gitignore
