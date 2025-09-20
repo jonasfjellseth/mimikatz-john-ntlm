@@ -35,12 +35,5 @@ Repoen dekker:
 ntlm-cracking-lab/
 │── README.md
 │── LICENSE
-│── images/
-│   ├── 01-opprett-bruker.png
-│   ├── 02-lage-passord.png
-│   ├── 03-logge-inn.png
-│   ├── 04-lastet-ned-mimikatz.png
-│   ├── 05-mimikatz-kommandoer.png
-│   ├── 06-mimikatz-ntlm-hash.png
-│   └── 07-john-crack.png
+│── LAB.md
 │── .gitignore
